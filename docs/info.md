@@ -13,8 +13,8 @@ Change inputs to see magic
 
 ## How to test
 
-Explain how to use your project
+Just do the correct inputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 seg display
