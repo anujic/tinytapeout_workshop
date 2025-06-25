@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Change inputs to see magic
+Change inputs and try to figure out the schematic.
 
 ## How to test
 
-Just do the correct inputs
+All 7 segments should be lit up at least once, when trying all of the inputs. 
 
 ## External hardware
 
